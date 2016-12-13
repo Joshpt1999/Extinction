@@ -1,0 +1,17 @@
+section{
+	width: 80%;
+	margin: auto;
+	background-color: blue;
+}
+
+h1{
+	width: 40%;
+	margin: auto;
+}
+
+footer{
+	visibility: hidden;
+}
+<body>
+
+</body>
